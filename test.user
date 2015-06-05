@@ -1,5 +1,3 @@
-// ==/UserScript==
-
 function GameReady ( callback ) {
 	var screenLoading = document.querySelector('#screen-loading');
 
