@@ -1,18 +1,3 @@
-/*! TW2 AutoFarm v1.0.2
- * http://jcauto.github.io/scripts/tribal-wars-2-auto-farm-script/
- * Jc Auto <jcauto.tw@gmail.com>
- * (c) 2015, 2015 MIT License
- */
-
-// ==UserScript==
-// @name         Tribal Wars 2 Auto Farm
-// @namespace    http://jcauto.github.io/scripts/tribal-wars-2-auto-farm-script/
-// @version      0.0.1
-// @description  test
-// @author       jcauto
-// @match        https://*.tribalwars2.com/game.php?world=*
-// @grant        unsafeWindow
-// @run-at document-end
 // ==/UserScript==
 
 function GameReady ( callback ) {
