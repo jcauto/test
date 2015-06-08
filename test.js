@@ -1,5 +1,5 @@
 /*! TW2 AutoFarm v1.0.2
- * http://relaxeaza.github.io/scripts/tribal-wars-2-auto-farm-script/
+ * https://github.com/jcauto/test/blob/master/
  * Rafael Mafra <relaxeaza.tw@gmail.com>
  * (c) 2014, 2015 MIT License
  */
