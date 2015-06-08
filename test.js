@@ -1,3 +1,20 @@
+/*! TW2 AutoFarm v1.0.2
+ * http://relaxeaza.github.io/scripts/tribal-wars-2-auto-farm-script/
+ * Rafael Mafra <relaxeaza.tw@gmail.com>
+ * (c) 2014, 2015 MIT License
+ */
+
+// ==UserScript==
+// @name         Tribal Wars 2 Auto Farm
+// @namespace    https://github.com/jcauto/test/edit/master/
+// @version      1.0.2
+// @description  Farmador Automático - Ataques nas aldeias abandonadas ao redor de suas aldeias.
+// @author       Relaxeaza
+// @match        https://*.tribalwars2.com/game.php?world=*
+// @grant        unsafeWindow
+// @run-at document-end
+// ==/UserScript==
+
 function GameReady ( callback ) {
 	var screenLoading = document.querySelector('#screen-loading');
 
